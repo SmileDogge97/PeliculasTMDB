@@ -1,4 +1,4 @@
-# Examen Salinas - Películas App
+# Películas App
 
 Aplicación móvil Android desarrollada en **Kotlin** que permite a los usuarios explorar una lista de películas, filtrarlas y ver sus detalles. La aplicación consume la API de [The Movie Database (TMDB)](https://www.themoviedb.org/).
 
